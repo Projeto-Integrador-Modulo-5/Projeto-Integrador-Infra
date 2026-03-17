@@ -1,0 +1,9 @@
+# Ignorar o .env real — nunca sobe pro GitHub
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
